@@ -7,6 +7,6 @@
 #ifndef icc_CardIOIccVersion_h
 #define icc_CardIOIccVersion_h
 
-#define CardIOIccVersion() @"icc-version-undefined"
+#define CardIOIccVersion() @"5.4.1"
 
 #endif
